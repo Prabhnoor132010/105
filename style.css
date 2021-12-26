@@ -1,0 +1,23 @@
+body{
+    color: rgb(255, 0, 0);
+    background-color:teal
+}
+.heading{
+    width: 80%;
+    font-size: 28px;
+}
+.objects{
+    color: rgb(238, 216, 17);
+}
+#camera{
+    border: 1px  dotted rgb(66, 2, 2);
+    width: 360px;
+    height: 400px;
+}
+#result_object_name,#result_object_accuracy{
+    color: yellowgreen;
+}
+#webcam{
+    color: rgb(51, 255, 0);
+    font-size: 15px;
+}
